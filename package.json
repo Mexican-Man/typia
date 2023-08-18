@@ -4,6 +4,7 @@
   "description": "Superfast runtime validators with only one line",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
+  "type": "module",
   "bin": {
     "typia": "./lib/executable/typia.js"
   },
